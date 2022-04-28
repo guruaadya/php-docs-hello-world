@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'mywebapp-eusaccenture'
           slot-name: 'staging1'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2E66D89D697C4E0EA8344AEDE52BB870 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_170338E8BC614645B3223C9B383166B7 }}
           package: .
