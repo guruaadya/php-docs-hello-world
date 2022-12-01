@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'mywebappeus'
           slot-name: 'staging1'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_670A8B9072FE49A39D75EDA6762DA4B5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_70AE4525EBF6447CA2C81D4904A96C18 }}
           package: .
